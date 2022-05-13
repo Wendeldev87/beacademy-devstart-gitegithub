@@ -10,7 +10,7 @@ Configurar e-mail do usuário
 
 git config --global user.email "email"
 
-Inicia um direito vazio
+Inicia um repositorio vazio
 
 git init
 
